@@ -16,4 +16,4 @@
 *.xlsx
 
 #Jupyter
-.vscode/*
+.ipynb_checkpoints/*
